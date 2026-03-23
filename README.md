@@ -4,7 +4,7 @@
 
 **Paper by:** K. Rishi J — Jain (Deemed-to-be) University, Bangalore, India
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/federated-vending-anomaly/blob/main/fedvending_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RISHI-789/federated-vending/blob/main/fedvending_colab.ipynb)
 
 ---
 
